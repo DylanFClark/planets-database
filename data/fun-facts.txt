@@ -9,6 +9,6 @@
 9. Spacecraft have visited every planet (in our solar system)
 10. Spacecraft could bring contaminants to inhabitable (or inhabited) locations in the solar system
 
-
+11. 11th fact (for the sake of editing a file on GitHub and seeing impacts of pulling)
 
 #retrieved from www.space.com/35695-weirdest-solar-system-facts.html
