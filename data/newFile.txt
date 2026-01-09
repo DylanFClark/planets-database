@@ -1,3 +1,2 @@
 This file was added for the sake of testing how pull functionality works when the local project does not contain a file contained in the pull, but all others. 
 
-Add a few lines to see what happens upon an edit
